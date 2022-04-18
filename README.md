@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGw9xBKFmvdcw/profile-displaybackgroundimage-shrink_350_1400/0/1629544731677?e=1642032000&v=beta&t=5tAMxLnEEhy3_WPvb2jTu2C0dbsktkUrjBE_4ZrVtiM)](https://atharvamulgund.netlify.app)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGOeAA5AhXJ0w/profile-displaybackgroundimage-shrink_350_1400/0/1650263719170?e=1655942400&v=beta&t=Ja3v0cK7MlShLcN1UCyFdlI7rzze0iSiY16O59WarC4)](https://atharvamulgund.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Atharva Mulgund</h1>
 <h3 align="center">A Front-End Developer passionate about MERN Stack!</h3>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 Portfolio Link: [https://atharvamulgund.netlify.app](https://atharvamulgund.netlify.app)
 
-- 📫 How to reach me **atharva.mulgund@gmail.com**
+- 📫 How to reach me **mulgundatharva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
