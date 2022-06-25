@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGOeAA5AhXJ0w/profile-displaybackgroundimage-shrink_350_1400/0/1650263719170?e=1655942400&v=beta&t=Ja3v0cK7MlShLcN1UCyFdlI7rzze0iSiY16O59WarC4)](https://atharvamulgund.netlify.app)
+[![MasterHead](https://media-exp2.licdn.com/dms/image/C4E16AQGOeAA5AhXJ0w/profile-displaybackgroundimage-shrink_350_1400/0/1650263719170?e=1661385600&v=beta&t=HR5wcDWsc8bbK8JEvr7G1bJvINIdtRrA4VHLa773Uig)](https://atharvamulgund.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Atharva Mulgund</h1>
 <h3 align="center">A Front-End Developer passionate about MERN Stack!</h3>
