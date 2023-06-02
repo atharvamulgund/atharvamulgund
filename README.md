@@ -1,11 +1,11 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGOeAA5AhXJ0w/profile-displaybackgroundimage-shrink_350_1400/0/1650263719170?e=1668038400&v=beta&t=JmCK6TYUB2bNWBr6xh_LxaYmKj2qoE3rlpJo2nr4pH4)](https://atharvamulgund.netlify.app)
+[![MasterHead](./AtharvaMulgund.png)](https://atharvamulgund.web.app)
 
 <h1 align="center">Hi 👋, I'm Atharva Mulgund</h1>
 <h3 align="center">A Front-End Developer passionate about MERN Stack!</h3>
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://atharvamulgund.netlify.app](https://atharvamulgund.netlify.app)
+- 👨‍💻 All of my projects are available at [https://atharvamulgund.web.app](https://atharvamulgund.web.app)
 
 - 📫 How to reach me **mulgundatharva@gmail.com**
 
